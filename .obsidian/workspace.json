@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "3a20a8200d7cab40",
+    "type": "split",
+    "children": [
+      {
+        "id": "236ec0af48db7f34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "195c7f861b0702c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on Machine-Learning/Linear models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "317dbb0577d54787",
+    "type": "split",
+    "children": [
+      {
+        "id": "e18a64f82b751b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "034a85043df646c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6be9ce163cbe44d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48f47de54b7b1884",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50fde5dbd2257817",
+    "type": "split",
+    "children": [
+      {
+        "id": "87ebf010cc02bc70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d474609acbfae853",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes on Machine-Learning/Linear models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6900be83172392fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes on Machine-Learning/Linear models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bb107e6bada2274",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9bd0d48f9b269fda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes on Machine-Learning/Linear models.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "195c7f861b0702c9",
+  "lastOpenFiles": [
+    "Machine_learning_Algorithms/hearing_test.csv",
+    "Machine_learning_Algorithms/Logisitic_Regression.ipynb",
+    "Notes on Machine-Learning/Basics.md",
+    "Notes on Machine-Learning/Linear models.md",
+    "Notes on Machine-Learning/Regression - analysis.md",
+    "README.md",
+    "Pasted image 20231003152537.png",
+    "Pasted image 20231003152348.png",
+    "Pasted image 20231003152219.png",
+    "Pasted image 20231003152024.png",
+    "Notes on Machine-Learning"
+  ]
+}
