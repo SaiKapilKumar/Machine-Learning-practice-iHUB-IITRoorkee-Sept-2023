@@ -11,11 +11,9 @@
             "id": "195c7f861b0702c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes on Machine-Learning/Linear models.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes on Machine-Learning/Images/Pasted image 20231003152024.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on Machine-Learning/Linear models.md",
+                "file": "Notes on Machine-Learning/Images/Pasted image 20231003152024.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on Machine-Learning/Linear models.md",
+                "file": "Notes on Machine-Learning/Images/Pasted image 20231003152024.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes on Machine-Learning/Linear models.md"
+                "file": "Notes on Machine-Learning/Images/Pasted image 20231003152024.png"
               }
             }
           }
@@ -146,18 +144,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "195c7f861b0702c9",
+  "active": "034a85043df646c7",
   "lastOpenFiles": [
+    "Notes on Machine-Learning/Images/Pasted image 20231003152219.png",
+    "Notes on Machine-Learning/Images/Pasted image 20231003152024.png",
+    "Notes on Machine-Learning/Linear models.md",
+    "Notes on Machine-Learning/Images",
     "Machine_learning_Algorithms/hearing_test.csv",
     "Machine_learning_Algorithms/Logisitic_Regression.ipynb",
     "Notes on Machine-Learning/Basics.md",
-    "Notes on Machine-Learning/Linear models.md",
     "Notes on Machine-Learning/Regression - analysis.md",
     "README.md",
-    "Pasted image 20231003152537.png",
-    "Pasted image 20231003152348.png",
-    "Pasted image 20231003152219.png",
-    "Pasted image 20231003152024.png",
+    "Notes on Machine-Learning/Images/Pasted image 20231003152537.png",
+    "Notes on Machine-Learning/Images/Pasted image 20231003152348.png",
     "Notes on Machine-Learning"
   ]
 }
